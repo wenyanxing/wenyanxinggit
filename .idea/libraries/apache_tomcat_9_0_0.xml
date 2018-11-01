@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-9.0.0">
+    <CLASSES>
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/annotations-api.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/catalina.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/el-api.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/jasper-el.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/jasper.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/jaspic-api.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/jsp-api.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/servlet-api.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-jni.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/tomcat-websocket.jar!/" />
+      <root url="jar://D:/desplore/apache-tomcat-9.0.0.M26/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26/webapps/docs/appdev/sample/src" />
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26/webapps/examples/WEB-INF/classes" />
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26/webapps/examples/jsp/plugin/applet" />
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26/work/Catalina/localhost/ROOT" />
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26/work/Catalina/localhost/hebgk" />
+      <root url="file://D:/desplore/apache-tomcat-9.0.0.M26/work/Catalina/localhost/manager" />
+    </SOURCES>
+  </library>
+</component>
